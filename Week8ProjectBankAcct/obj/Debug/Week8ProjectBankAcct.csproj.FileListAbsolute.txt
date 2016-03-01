@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\Week8ProjectBankAcct\Week8ProjectBankAcct\bin\Debug\Week8ProjectBankAcct.exe.config
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week8ProjectBankAcct\Week8ProjectBankAcct\bin\Debug\Week8ProjectBankAcct.exe
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week8ProjectBankAcct\Week8ProjectBankAcct\bin\Debug\Week8ProjectBankAcct.pdb
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week8ProjectBankAcct\Week8ProjectBankAcct\obj\Debug\Week8ProjectBankAcct.csprojResolveAssemblyReference.cache
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week8ProjectBankAcct\Week8ProjectBankAcct\obj\Debug\Week8ProjectBankAcct.exe
+C:\Users\Mary Winkelman\Documents\Visual Studio 2015\Projects\Week8ProjectBankAcct\Week8ProjectBankAcct\obj\Debug\Week8ProjectBankAcct.pdb
