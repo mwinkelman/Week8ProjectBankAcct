@@ -1,0 +1,6 @@
+c:\users\mary winkelman\documents\visual studio 2015\Projects\BankingProgramWK8\BankingProgramWK8\bin\Debug\BankingProgramWK8.exe.config
+c:\users\mary winkelman\documents\visual studio 2015\Projects\BankingProgramWK8\BankingProgramWK8\obj\Debug\BankingProgramWK8.csprojResolveAssemblyReference.cache
+c:\users\mary winkelman\documents\visual studio 2015\Projects\BankingProgramWK8\BankingProgramWK8\bin\Debug\BankingProgramWK8.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\BankingProgramWK8\BankingProgramWK8\bin\Debug\BankingProgramWK8.pdb
+c:\users\mary winkelman\documents\visual studio 2015\Projects\BankingProgramWK8\BankingProgramWK8\obj\Debug\BankingProgramWK8.exe
+c:\users\mary winkelman\documents\visual studio 2015\Projects\BankingProgramWK8\BankingProgramWK8\obj\Debug\BankingProgramWK8.pdb
